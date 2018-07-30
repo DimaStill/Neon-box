@@ -3,9 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/BezierCurveLines
 Assets/AssetStoreTools*
-Assets/_MK
 
 # Visual Studio cache directory
 .vs/
@@ -36,5 +34,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
-*.meta
